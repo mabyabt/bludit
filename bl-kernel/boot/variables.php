@@ -49,7 +49,7 @@ define('ITEMS_PER_PAGE_ADMIN', 20);
 define('CLI_STATUS', 'published');
 
 // Cli mode, username for new pages
-define('CLI_USERNAME', 'admin');
+define('CLI_USERNAME', 'siteadmin');
 
 // Remember me
 define('REMEMBER_COOKIE_USERNAME', 'BLUDITREMEMBERUSERNAME');
